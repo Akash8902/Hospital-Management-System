@@ -53,15 +53,15 @@ Here are some screenshots showcasing different sections of the Hospital Manageme
 
 - **Medicine Store**
   ![Medicine Store](screenshot/store.png)
+  
+- **Employees**
+  ![Employees](screenshot/employees.png)
 
 - **Salary**
   ![Salary](screenshot/salary.png)
 
 - **Pay Slip**
   ![Pay Slip](screenshot/payslip.png)
-
-- **Add Employee Leave**
-  ![Add Employee Leave](screenshot/leave.png)
 
 ## Conclusion
 
