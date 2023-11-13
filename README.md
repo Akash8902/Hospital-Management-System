@@ -31,16 +31,31 @@ Follow these steps to get the Hospital Management System up and running:
 Here are some screenshots showcasing different sections of the Hospital Management System:
 
 - **Home**
-  ![Home](screenshot/landing.png)
+  ![Home](screenshot/home.png)
 
 - **Sign Up**
   ![Sign Up](screenshot/signup.png)
 
+- **Login**
+  ![Login](screenshot/login.png)
+
 - **Dashboard**
   ![Dashboard](screenshot/dashboard.png)
 
+- **Doctors**
+  ![Doctors](screenshot/doctors.png)
+  
+- **Departments**
+  ![Departments](screenshot/departments.png)
+
+- **Appointments**
+  ![Appointments](screenshot/appointments.png)
+
 - **Medicine Store**
   ![Medicine Store](screenshot/store.png)
+
+- **Salary**
+  ![Salary](screenshot/salary.png)
 
 - **Pay Slip**
   ![Pay Slip](screenshot/payslip.png)
