@@ -44,7 +44,7 @@ Here are some screenshots showcasing different sections of the Hospital Manageme
 
 - **Doctors**
   ![Doctors](screenshot/doctors.png)
-  
+    
 - **Departments**
   ![Departments](screenshot/departments.png)
 
